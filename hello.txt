@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 no i can't
+=======
+yes we can
+>>>>>>> feature
